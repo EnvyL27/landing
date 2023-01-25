@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tugas1';
+  public name = "Property from parent component"
 }
+
+
